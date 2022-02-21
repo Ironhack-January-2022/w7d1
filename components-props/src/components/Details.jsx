@@ -6,6 +6,7 @@ export default function Details(props) {
 		<>
 			<h3>These are the user details</h3>
 			<h5>Name: {props.name}</h5>
+			<h5>Email: {props.email}</h5>
 		</>
 	)
 }

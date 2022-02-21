@@ -4,9 +4,9 @@ import Profile from './components/Profile'
 function App() {
 
   const user = {
-    name: 'Rick',
+    name: 'Morty',
     email: 'rick@c-137.com',
-    picture: ''
+    picture: 'https://i.imgur.com/GjfXzVU.jpeg'
   }
 
   return (
